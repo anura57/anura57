@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anura Shakya
 - 👀 I’m interested in designing.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and JavaScript.
 - 📫 How to reach me- anurashakya6@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Im good at painting.

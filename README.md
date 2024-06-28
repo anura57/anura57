@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anura Shakya. currently a BIT student
-- 👀 I’m interested in web application designing.
-- 🌱 I’m currently learning React and JavaScript.
+- 👀 I’m working as a QA intern.
+- 🌱 I’m currently learning React,JavaScript and Python.
 - 📫 How to reach me- anurashakya6@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Im good at painting.
